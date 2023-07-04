@@ -1,6 +1,6 @@
-#define MQTT_SERVER "cloudrmqserver.pptik.id"
-#define MQTT_USER "/TimbanganD22:timbangan_dispenser22"
-#define MQTT_PASS "TimbanganD22!"
+#define MQTT_SERVER ""
+#define MQTT_USER ""
+#define MQTT_PASS ""
 
 #define MQTTQUEUETIMBANGAN "Sensor"
 #define MQTTQUEUEPUBLISH "Log"
